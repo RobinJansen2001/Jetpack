@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4cb7b97-177d-4d86-b8e1-0c86f3058bc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/calulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divide.js" beforeDir="false" afterPath="$PROJECT_DIR$/divide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiply.js" beforeDir="false" afterPath="$PROJECT_DIR$/multiply.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/substract.js" beforeDir="false" afterPath="$PROJECT_DIR$/substract.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,6 +154,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -200,12 +196,12 @@
       <workItem from="1581868237888" duration="52000" />
       <workItem from="1585133540121" duration="1929000" />
       <workItem from="1585135537341" duration="28000" />
-      <workItem from="1585135588044" duration="649000" />
+      <workItem from="1585135588044" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2606000" />
+    <option name="totallyTimeSpent" value="2947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
