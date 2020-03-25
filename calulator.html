@@ -3,11 +3,8 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Calculator</title>
-		<script src="calculate.js"></script>
-		<script src="add.js"></script>
-		<script src="divide.js"></script>
-		<script src="multiply.js"></script>
-		<script src="substract.js"></script>
+		<link rel="stylesheet" href="stijl.css">
+		<script type="module" src="calculate.js"></script>
 		<script>
 			function actie(el) {
 				const uitkomst = calculate(document.getElementById('a').value, document.getElementById('b').value, el.value);

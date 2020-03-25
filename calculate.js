@@ -1,7 +1,12 @@
 /* Delen van twee waarden*/
+import {add} from "add.js";
+import {substract} from "substract.js";
+import {multiply} from "multiply.js";
+import {divide} from "divide.js";
+
 function calculate(a, b, operator) {
     "use strict";
-	var c = 0;
+	let c = 0;
     switch (operator) {
 		case "+":
 			c = add(a, b);
@@ -20,3 +25,4 @@ function calculate(a, b, operator) {
 	}
 	return c;
 }
+export {calculate};
